@@ -1,56 +1,34 @@
-<h1 align="center">Facundo Tiede</h1>
+<div align="center">
+
+# ¡Hola, soy Facundo! 👋 (`FHACKUNDO`)
+
+### 🚀 Soporte L2 • Python • Linux & Backend
+
+</div>
+
+---
+
+### 💡 Sobre mí
+
+- 🛠️ **Soporte de Aplicaciones L2:** Resolución de incidencias y análisis de problemas en entornos de producción.
+- 🐍 **Automatización con Python:** Creación de scripts para optimizar tareas, parsear logs y gestionar datos.
+- 🗄️ **Bases de Datos & APIs:** Pruebas y diagnóstico básico en APIs REST y bases de datos SQL / PostgreSQL.
+- 🐧 **Entornos:** Uso habitual de Linux, Git y herramientas de desarrollo en el día a día.
+
+---
+
+### 🛠️ Stack
 
 <p align="center">
-  Soporte L2 • Scripting Python • Linux • Backend Fundamentals
+  <img src="https://skillicons.dev/icons?i=python,linux,git,postgres,docker,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-### Sobre mí
+### 🌱 Enfoque Actual
 
-- 🛠️ **Soporte de Aplicaciones L2:** Diagnóstico y resolución de incidencias en entornos de producción.
-- 🐍 **Automatización con Python:** Desarrollo de herramientas CLI, parsing de logs y exportación de datos estructurados.
-- 🗄️ **Fundamentos de Backend & DBs:** Rastreo de errores en APIs REST, conectividad a PostgreSQL/SQL y análisis del flujo de datos.
-- 🐧 **Sistemas & Entornos:** Trabajo habitual en Linux/Windows mediante Git, bash y línea de comandos.
-
----
-
-### Stack Tecnológico
-
-<p align="center">
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="python" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="48" height="48"/>
-  </a>
-
-</p>
+- Aprendiendo y mejorando en automatización y resolución de errores.
+- Explorando las bases de la seguridad informática y redes.
+- Desarrollando proyectos personales en Python y Linux.
 
 ---
-
-### Enfoque Actual
-
-```txt
-Soporte L2 & Análisis de Incidencias
-Automatización de Procesos con Python
-Diagnóstico de APIS REST & Bases de Datos
-Gestión de Datos Estructurados (JSON/SQL)
